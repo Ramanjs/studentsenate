@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="author" content="Yash Gupta">
+  <title>The WALL</title>
+</head>
+ 	<body style = "background-color: #dfc071 ;">
+ 	<img src="wall.png" alt="Italian Trulli" style="width:1142px;height:1681px;">
+</body>
+</html>
