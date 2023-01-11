@@ -1,1 +1,1 @@
-# yashg49.github.io
+# IIITD Student Senate Website

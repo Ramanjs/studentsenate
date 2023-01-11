@@ -4,12 +4,13 @@
     position: relative;
     z-index: 3;
     overflow: hidden;
+    padding: 0;
     &:before{
         content: "";
         background: url(../img/banner/banner-bg.png) no-repeat scroll center right;
         position: absolute;
         right: 0px;
-        top: 0px;
+        top: -50px;
         height: 100%;
         max-width: 1233px;
         width: 100%;
